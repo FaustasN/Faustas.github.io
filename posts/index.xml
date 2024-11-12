@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Title</title>
+    <link>https://Faustas.github.io/posts/</link>
+    <description>Recent content in Posts on Title</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 16:24:54 +0200</lastBuildDate>
+    <atom:link href="https://Faustas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titulinis</title>
+      <link>https://Faustas.github.io/posts/titulinis/</link>
+      <pubDate>Tue, 12 Nov 2024 16:24:54 +0200</pubDate>
+      <guid>https://Faustas.github.io/posts/titulinis/</guid>
+      <description>&lt;p&gt;Kimaro bosas ir kimaro sostinė čia ĄĄĄ&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
